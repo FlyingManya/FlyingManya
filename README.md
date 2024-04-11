@@ -1,11 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Manya</h1>
-<h3 align="center">I'm a Computer Science and Engineering Student at NIT Jalandhar</h3>
-<image align="right" alt="coding" width="300" src="https://github.com/FlyingManya/FlyingManya/assets/98754211/ecf94ef5-e9b3-47d7-8ab2-80707ae2dd90" alt="flyingmanya"></p>
+<h1 align="center">Greeting Everyone👋, I'm Manya</h1>
+<image src="https://github.com/FlyingManya/FlyingManya/assets/98754211/a79d972f-9a59-483b-acbe-fdb9f694d094" alt="banner"></image>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
 📝 Know me more through my blogs on https://gautamrajputmanya.wixsite.com/mysite
   
 📫 **gautamrajputmanya@gmail.com**
-
+<br>
+<image align="right" alt="coding" width="250" src="https://github.com/FlyingManya/FlyingManya/assets/98754211/ecf94ef5-e9b3-47d7-8ab2-80707ae2dd90" alt="flyingmanya"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flyingmanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flyingmanya" height="30" width="40" /></a>
