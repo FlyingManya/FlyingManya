@@ -1,11 +1,23 @@
-<h1 align="center">Greeting Everyone👋, I'm Manya</h1>
+***Greetings Everyone🌻, I'm Manya***
+<hr>
+
 <image src="https://github.com/FlyingManya/FlyingManya/assets/98754211/a79d972f-9a59-483b-acbe-fdb9f694d094" alt="banner"></image>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
-📝 Know me more through my blogs on https://gautamrajputmanya.wixsite.com/mysite
-  
-📫 **gautamrajputmanya@gmail.com**
 <br>
-<image align="right" alt="coding" width="250" src="https://github.com/FlyingManya/FlyingManya/assets/98754211/ecf94ef5-e9b3-47d7-8ab2-80707ae2dd90" alt="flyingmanya"></p>
+
+*I'm currently pursuing Computer Science and Engineering from NIT Jalandhar,Punjab.  
+Immersed in the dynamic fields of Software Development and Machine Learning, I am also actively seeking internship opportunities to further enrich my practical knowledge.  
+Alongside my academic endeavors, I am dedicated to honing my skills in Data Structures and Algorithms.  
+On top of all that, I indulge in the art of blogging.  
+Excitedly anticipating the prospect of contributing to meaningful projects, I am a firm believer in the transformative power of #TechForGood.  
+Let's create an impact together!*
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
+🌵 https://gautamrajputmanya.wixsite.com/mysite 
+
+📫 *gautamrajputmanya@gmail.com*
+<br>
+<image align="right" alt="coding" width="250" src="https://github.com/FlyingManya/FlyingManya/assets/98754211/0a854199-b287-4dca-a4cc-8265cbd3335e" alt="flyingmanya"></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flyingmanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flyingmanya" height="30" width="40" /></a>
