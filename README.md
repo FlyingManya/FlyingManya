@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Manya</h1>
 <h3 align="center">I'm a Computer Science and Engineering Student at NIT Jalandhar</h3>
-<img align=“right” alt=“coding” width=“400” src=“[https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSaraNooryar%2Fsaranooryar&psig=AOvVaw1oI9JA4FIjySWIxX2-6zBm&ust=1712910604903000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCLjG4dzfuYUDFQAAAAAdAAAAABCHAQ)”>
+![FlyingManya GIF](flyingmanya.gif)
+
 
 - 📝 I regularly write articles on https://gautamrajputmanya.wixsite.com/mysite](https://gautamrajputmanya.wixsite.com/mysite)
 
