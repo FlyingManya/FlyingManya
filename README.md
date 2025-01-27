@@ -5,7 +5,7 @@
 <br>
 
 *I am currently pursuing a Bachelor's degree in Computer Science and Engineering from NIT Jalandhar, Punjab.  
-Immersed in the dynamic fields of Software Development and Machine Learning, I am also actively seeking internship opportunities to further enrich my practical knowledge.  
+Immersed in the dynamic fields of Software Development and Machine Learning, I am currently pursuing an internship at Oracle.  
 Alongside my academic endeavors, I am dedicated to honing my skills in Data Structures and Algorithms.  
 On top of all that, I indulge in the art of blogging.  
 Excitedly anticipating the prospect of contributing to meaningful projects, I am a firm believer in the transformative power of #TechForGood.  
