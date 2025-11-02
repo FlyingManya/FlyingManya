@@ -4,8 +4,8 @@
 <image src="https://github.com/FlyingManya/FlyingManya/assets/98754211/a79d972f-9a59-483b-acbe-fdb9f694d094" alt="banner"></image>
 <br>
 
-*I am currently pursuing a Bachelor's degree in Computer Science and Engineering from NIT Jalandhar, Punjab.  
-Immersed in the dynamic fields of Software Development and Machine Learning, I am currently pursuing an internship at Oracle.  
+*I have done a Bachelor's degree in Computer Science and Engineering from NIT Jalandhar, Punjab.  
+Immersed in the dynamic fields of Software Development and DevOps, I completed my 6 month internship at Oracle, and currently working as a Software Developer at Oracle. 
 Alongside my academic endeavors, I am dedicated to honing my skills in Data Structures and Algorithms.  
 On top of all that, I indulge in the art of blogging.  
 Excitedly anticipating the prospect of contributing to meaningful projects, I am a firm believer in the transformative power of #TechForGood.  
